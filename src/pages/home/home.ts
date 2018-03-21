@@ -7,6 +7,8 @@ import { NavController } from 'ionic-angular';
 })
 export class HomePage {
 
+  teste: string = 'alohaa';
+
   constructor(public navCtrl: NavController) {
 
   }

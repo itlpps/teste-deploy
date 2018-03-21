@@ -1,6 +1,8 @@
 {
   "name": "teste-deploy",
-  "app_id": "",
+  "app_id": "c6d8538c",
   "type": "ionic-angular",
-  "integrations": {}
+  "integrations": {
+    "cordova": {}
+  }
 }
